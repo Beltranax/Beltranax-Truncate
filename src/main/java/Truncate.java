@@ -30,8 +30,9 @@ public class Truncate {
         /**
          * problem2: remove all the records from the table "song"
          */
-        String sql = FileUtil.parseSQLFile("problem2.sql");
 
+    
+        String sql = FileUtil.parseSQLFile("problem2.sql");
 
 
         try {
